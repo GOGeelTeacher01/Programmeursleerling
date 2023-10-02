@@ -26,11 +26,11 @@ die de lengte van de schuine zijde aangeeft. Rond de uitkomst af op 3 cijfers na
 
 ```
 3.0
-4.0
+5.0
 ```
 
 #### Uitvoer:
 
 ```
-Lengte van de schuine zijde: 5.000
+Lengte van de schuine zijde: 5.831
 ```
