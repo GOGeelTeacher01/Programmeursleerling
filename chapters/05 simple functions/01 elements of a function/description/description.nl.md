@@ -57,5 +57,5 @@ print( int( y ) )
 ```
 
 Niet alle functies retourneren een waarde. Bijvoorbeeld, `print()` geeft
-geen waarde terug.
+geen waarde terug, maar geeft zijn parameter weer in de Python Shell.
 
