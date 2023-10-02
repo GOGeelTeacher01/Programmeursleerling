@@ -1,6 +1,6 @@
 ### `input()`
 
-Om de gebruiker een input te vragen, gebruik je de functie input(). Dit is een functie die zeer vaak gebruikt wordt in voorbeelden.
+Om de gebruiker zelf iets in te laten geven, gebruik je de functie input(). Dit is een functie die zeer vaak gebruikt wordt in voorbeelden.
 
 Hier is een voorbeeld:
 
