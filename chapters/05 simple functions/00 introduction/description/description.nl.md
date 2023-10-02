@@ -17,6 +17,7 @@ Je dat dezelfde formule tweemaal gebruikt wordt. Code die je vaak herhaalt, kan 
 def inhoudKubus(zijde):
   inhoud = zijde **3
   return inhoud
+
 #zoek het verschil tussen een kubus met zijde 5 cm en een kubus met zijde 3 cm
 verschil = inhoudKubus(5)-inhoudKubus(3)
 print( verschil )
