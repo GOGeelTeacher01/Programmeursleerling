@@ -34,3 +34,7 @@ die de lengte van de schuine zijde aangeeft. Rond de uitkomst af op 3 cijfers na
 ```
 Lengte van de schuine zijde: 5.831
 ```
+
+#### Extra vereiste:
+
+Begin je programma met een functie pythagoras(schuineZijde1, schuineZijde2)
