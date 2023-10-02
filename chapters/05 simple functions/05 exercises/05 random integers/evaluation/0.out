@@ -8,6 +8,6 @@ def customEvaluate(expected_output, generated_output):
     return (
         len(generated_output) == 1 and
         generated_output[0].rstrip('\n').isdigit() and
-        0 < int(generated_output[0]) < 11
+        -1 < int(generated_output[0]) < 10
     )
 </DEFINITION>
