@@ -4,6 +4,8 @@ In dit hoofdstuk is het volgende besproken:
 
 -   Functie namen
 
+-   Functie instructies
+
 -   Functie parameters
 
 -   Functie retourwaardes
@@ -17,15 +19,11 @@ In dit hoofdstuk is het volgende besproken:
 
 -   `input()`
 
--   Details van the `print()` functie
-
--   String formattering met `format()`
-
 -   Wat modules zijn
 
--   De `math` functies `exp()`, `log()`, `log10()`, en `sqrt()`
+-   De `math` functie `sqrt()`
 
--   De `random` functies `random()`, `randint()`, en `seed()`
+-   De `random` functies `random()`, `randint()
 
 -   De `pcinput` functies `getInteger()`, `getFloat()`, `getString()`,
     en `getLetter()`
