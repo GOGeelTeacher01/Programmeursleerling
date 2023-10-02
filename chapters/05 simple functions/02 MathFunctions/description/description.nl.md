@@ -7,7 +7,7 @@ Ik heb al gesproken over type casting functies in hoofdstuk
 maar nu ik meer details van functies heb gegeven, kan ik de beschrijving
 completeren.
 
--   `float() : geeft een kommagetal bij ingeven van een int, float of string van cijfers
+-   `float()' : geeft een kommagetal bij ingeven van een int, float of string van cijfers
 
 -   `int()` geeft een geheel getal terug bij ingeven van een int, float of string van cijfers
 
