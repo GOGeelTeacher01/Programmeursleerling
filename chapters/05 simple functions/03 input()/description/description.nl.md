@@ -12,7 +12,7 @@ print( "Je hebt het volgende ingetypt:", tekst )
 Realiseer je dat `input()` altijd een string teruggeeft. Als je de codes als getal wil gebruiken,
 dan moet je zelf typecasten naar het gewenste datatype. Momenteel is het niet erg als je code 
 vastloopt als de gebruiker een fout maakt. Op smartschool staat een module waarbij je inputs
-kan vragen op een veilige manier. Hierover meer info verderop bij Modules.
+kan vragen op een veilige manier. Hierover meer info verderop bij modules.
 
 ```python
 nummer = float(input( "Geef een getal: " ))
