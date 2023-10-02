@@ -19,5 +19,5 @@ nummer = float(input( "Geef een getal: " ))
 print( "Je getal in het kwadraat is", nummer * nummer )
 
 geheelGetal=int(input("Geef en getal in: ")
-print("Het dubbel van je getal is", nummer * 2 )
+print("Het dubbel van je getal is", geheelGetal * 2 )
 ```
