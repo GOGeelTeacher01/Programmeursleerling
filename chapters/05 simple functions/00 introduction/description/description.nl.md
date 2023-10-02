@@ -1,5 +1,5 @@
 In voorgaande stukken kwamen al enkele eenvoudige functies voor, zoals `print()` en `int()`. 
-In dit hoofdstuk worden deze functies in meer detail besproken, samen met enkele nieuwe functies.
+In dit hoofdstuk worden enkele nieuwe functies voorgesteld.
 Maar waarom gebruiken we functies?
 
 Stel dat je het verschil in inhoud tussen twee kubussen wil weten. Dat kan via
