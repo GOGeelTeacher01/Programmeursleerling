@@ -1,5 +1,5 @@
 In voorgaande stukken kwamen al enkele eenvoudige functies voor, zoals `print()` en `int()`. 
-In dit hoofdstuk worden deze functies in meer detail besproken, samen met enkele nieuwe functies.
+In dit hoofdstuk worden enkele nieuwe functies voorgesteld.
 Maar waarom gebruiken we functies?
 
 Stel dat je het verschil in inhoud tussen twee kubussen wil weten. Dat kan via
@@ -19,6 +19,6 @@ def inhoudKubus(zijde):
   return inhoud
 
 #zoek het verschil tussen een kubus met zijde 5 cm en een kubus met zijde 3 cm
-verschil = inhoudKubus(5)-inhoudKubus(3)
+verschil = inhoudKubus(5)-inhoudKubus(4)
 print( verschil )
 ```
