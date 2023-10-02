@@ -18,7 +18,7 @@ Een zin van de vorm
 Lengte van de schuine zijde: ???
 ```
 
-die de lengte van de schuine zijde aangeeft. De lengte van de schuine zijde moet uitgeschreven worden met drie cijfers na de komma (met afronding). 
+die de lengte van de schuine zijde aangeeft. Rond de uitkomst af op 3 cijfers na de komma.
 
 ### Voorbeeld
 
