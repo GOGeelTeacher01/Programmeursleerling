@@ -19,6 +19,6 @@ def inhoudKubus(zijde):
   return inhoud
 
 #zoek het verschil tussen een kubus met zijde 5 cm en een kubus met zijde 3 cm
-verschil = inhoudKubus(5)-inhoudKubus(3)
+verschil = inhoudKubus(5)-inhoudKubus(4)
 print( verschil )
 ```
