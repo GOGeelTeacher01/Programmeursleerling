@@ -2,7 +2,7 @@ Vraag de gebruiker om een regel tekst in te geven, en druk de lengte van de teks
 
 ### Invoer
 
-Een regel tekst.
+Laat de gebruiker zelf een regel tekst invoeren.
 
 ### Uitvoer
 
