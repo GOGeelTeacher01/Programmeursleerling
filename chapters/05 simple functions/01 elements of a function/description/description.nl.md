@@ -37,8 +37,8 @@ Een eenvoudig voorbeeld is een som.
 
 ```python
 def som(getal1,getal2):
-  resultaat=getal1+getal2
-  return resultaat
+  som=getal1+getal2
+  return som
 ```
 
 ### Returnwaarde
@@ -48,7 +48,7 @@ retourneert, kun je die in je code gebruiken. In onderstaande code zal
 de functie de som van 2 getallen teruggeven.
 
 ```python
-def somTweeIntegers(getal1,getal2):
+def som(getal1,getal2):
   som=getal1+getal2
   return som
 
