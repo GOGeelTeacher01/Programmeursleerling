@@ -44,16 +44,14 @@ def som(getal1,getal2):
 ### Returnwaarde
 
 Een functie heeft vaak een returnwaarde. Als een functie een waarde
-retourneert, kun je die in je code gebruiken. Bijvoorbeeld, de `int()`
-functie retourneert een integer representatie van de parameter die is
-meegegeven.
+retourneert, kun je die in je code gebruiken. In onderstaande code zal 
+de functie de som van 2 getallen teruggeven.
 
 ```python
-x = 2.1
-y = '3'
-z = int( x )
-print( z )
-print( int( y ) )
+def somTweeIntegers(getal1,getal2):
+  som=getal1+getal2
+  return som
+
 ```
 
 Niet alle functies retourneren een waarde. Bijvoorbeeld, `print()` geeft
